@@ -1,0 +1,46 @@
+name: Masscan and ShuffleDNS Installation
+
+on: [push]
+
+jobs:
+  install-tools:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install Masscan
+      run: |
+        git clone https://github.com/blechschmidt/massdns.git
+        cd massdns
+        make
+#        masscan --version
+
+    - name: Install Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.21
+
+    - name: Install ShuffleDNS
+      run: |
+        go install -v github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest
+        shuffledns -version
+#    - name: Verify installations
+#      run: |
+#        masscan --version
+#        shuffledns -version
+
+    - name: executing DNS Brute
+      run: |
+        cd ../
+        pwd
+        cd biology_continues_WRecon 
+        ls
+        
+        
+    - name: Upload output as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: command-output
+        path: output.txt
