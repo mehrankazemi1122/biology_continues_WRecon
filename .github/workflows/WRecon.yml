@@ -49,6 +49,6 @@ jobs:
         
     - name: Upload file to GitHub
       uses: actions/upload-artifact@v3
-        with:
+      with:
           name: prev_output.verisign.com.txt
           path: prev_output.verisign.com.txt # Replace with yoour output file's name
