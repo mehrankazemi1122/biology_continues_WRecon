@@ -47,11 +47,12 @@ jobs:
         cat prev_output.verisign.com.txt
         
         
-    - name: Set up GitHub token for push
-      run: |
-          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
     - name: Commit and push changes
       run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
           git add .
-          git commit -m "Updated!" || true
+          git commit -m 'Update modified files'
           git push
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
