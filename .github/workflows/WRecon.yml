@@ -51,4 +51,4 @@ jobs:
       uses: actions/upload-artifact@v3
         with:
           name: prev_output.verisign.com.txt
-          path: prev_output.verisign.com.txt # Replace with your output file's name
+          path: prev_output.verisign.com.txt # Replace with yoour output file's name
