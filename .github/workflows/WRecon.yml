@@ -37,6 +37,7 @@ jobs:
         pwd
         cd biology_continues_WRecon 
         ls
+        ./script.py temp.txt verisign.com
         
         
     - name: Upload output as artifact
