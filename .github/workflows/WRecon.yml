@@ -46,7 +46,7 @@ jobs:
         ls
         cat prev_output.verisign.com.txt
         
-         
+          
     - name: Commit and push changes
       if: success() && steps.file_changes.outputs.has_changes == 'true'
       run: |
