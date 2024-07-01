@@ -1,0 +1,10 @@
+access.verisign.com
+accountsdr.verisign.com
+accounts.verisign.com
+alerts.verisign.com
+alertus.verisign.com
+andaman.verisign.com
+apollo.verisign.com
+artemis.verisign.com
+att.mss.verisign.com
+autodiscover.corparch.verisign.com
