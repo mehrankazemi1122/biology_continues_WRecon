@@ -1,4 +1,6 @@
+access.verisign.com
 accounts.verisign.com
+accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
