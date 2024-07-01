@@ -37,6 +37,7 @@ jobs:
         pwd
         cd biology_continues_WRecon 
         ls
+        chmod +x script.sh
         ./script.sh temp.txt verisign.com
         
         
