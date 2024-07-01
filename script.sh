@@ -15,6 +15,7 @@ shuffledns -w "$wordlist_file" -d "$website_address" -r resolvers.txt -m massdns
 
 # Step 2: Remove duplicates from output file
 cat "output.${website_address}.txt" | sort -u | sponge "output.${website_address}.txt"
+cat "prev_output.${website_address}.txt" | sort -u | sponge "prev_output.${website_address}.txt"
 
 # Step 3: Compare with previous output and send additions to Discord
 added_subdomains=$(comm -23 "output.${website_address}.txt" "prev_output.${website_address}.txt")
