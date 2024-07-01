@@ -47,8 +47,8 @@ jobs:
         cat prev_output.verisign.com.txt
         
         
-    - name: Upload output as artifact
-      uses: actions/upload-artifact@v2
-      with:
-        name: command-output
-        path: output.txt
+    - name: Upload file to GitHub
+      uses: actions/upload-artifact@v3
+        with:
+          name: prev_output.verisign.com.txt
+          path: prev_output.verisign.com.txt # Replace with your output file's name
