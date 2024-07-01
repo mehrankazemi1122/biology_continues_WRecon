@@ -34,7 +34,7 @@ jobs:
     - name: Install sponge
       run: |
         sudo apt-get install moreutils
-
+ 
     - name: executing DNS Brute
       run: |
         cd ../
