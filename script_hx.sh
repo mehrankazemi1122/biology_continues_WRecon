@@ -9,6 +9,18 @@ fi
 # Assign argument to variable
 website_address="$1"
 
+# Function to send notification to Discord with a delay
+send_discord_notification() {
+    local content="$1"
+    local webhook_url="https://discord.com/api/webhooks/1257309085351542786/ijyiMHCcmhafcTqgumjZkLFLJAOuPvvgTqNdas3Rg3v1uHr8Qf07TNLq_Oo1JYajBlM8"
+    
+    # Add a delay of 5 seconds before sending each notification
+    sleep 1
+    
+    # Send the notification
+    curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"$content\"}" "$webhook_url"
+}
+
 # Step 1: Run httpx command and save results
 cat "prev_output.${website_address}.txt" | dnsx -silent | while read line; do
     echo "$line" | httpx -silent -follow-host-redirects -title -status-code -cdn -tech-detect \
@@ -25,7 +37,7 @@ if [ -f "prev_httpx_res.txt" ]; then
             prev_line=$(grep -F "$line" prev_httpx_res.txt)
             echo "previous : $prev_line"
             echo "updated : $line"
-            curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"services changes:\nprevious : $prev_line\nupdated : $line\"}" https://discord.com/api/webhooks/1257309085351542786/ijyiMHCcmhafcTqgumjZkLFLJAOuPvvgTqNdas3Rg3v1uHr8Qf07TNLq_Oo1JYajBlM8
+            send_discord_notification "services changes:\nprevious : $prev_line\nupdated : $line"
         done <<< "$changes"
     fi
 fi
