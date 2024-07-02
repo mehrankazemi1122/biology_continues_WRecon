@@ -53,7 +53,7 @@ jobs:
         chmod +x script_shd.sh
         chmod +x script_hx.sh
         ./script_shd.sh temp.txt verisign.com
-        ./script_hx verisign.com
+        ./script_hx.sh verisign.com
         ls
         cat prev_output.verisign.com.txt
         
