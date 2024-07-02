@@ -7,4 +7,4 @@ https://globalprotect.verisign.com [[33m302[0m,[31m404[0m] [[35mhttps://glo
 https://gp-fri.verisign.com [[33m302[0m,[32m200[0m] [[36mGlobalProtect Portal[0m] [[35mhttps://gp-fri.verisign.com/global-protect/login.esp[0m] [[35mBootstrap,HSTS,jQuery[0m]
 https://gp-mel.verisign.com [[33m302[0m,[32m200[0m] [[36mGlobalProtect Portal[0m] [[35mhttps://gp-mel.verisign.com/global-protect/login.esp[0m] [[35mBootstrap,HSTS,jQuery[0m]
 https://gp-test.verisign.com [[33m302[0m,[31m404[0m] [[35mhttps://gp-test.verisign.com/global-protect/login.esp[0m]
-https://gp.verisign.com [[33m302[0m,[31m404[0m] [[35mhttps://gp.verisign.com/global-protect/login.esp[0m]
+
