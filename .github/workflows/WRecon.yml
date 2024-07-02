@@ -22,6 +22,15 @@ jobs:
       with:
         go-version: 1.21
 
+
+    - name: Install dnsX
+      run: |
+        go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
+
+    - name: Install HttpX
+      run: |
+        go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+
     - name: Install ShuffleDNS
       run: |
         go install -v github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest
@@ -41,7 +50,9 @@ jobs:
         pwd
         cd biology_continues_WRecon 
         ls
-        chmod +x script.sh
+        chmod +x script_shd.sh
+        chmod +x script_hx.sh
+        ./script_hx verisign.com
         ./script.sh temp.txt verisign.com
         ls
         cat prev_output.verisign.com.txt
