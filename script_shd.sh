@@ -6,7 +6,7 @@ send_discord_notification() {
     local webhook_url="https://discord.com/api/webhooks/1257309085351542786/ijyiMHCcmhafcTqgumjZkLFLJAOuPvvgTqNdas3Rg3v1uHr8Qf07TNLq_Oo1JYajBlM8"
     
     # Add a delay of 5 seconds before sending each notification
-    sleep 5
+    sleep 1
     
     # Send the notification
     curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"$content\"}" "$webhook_url"
