@@ -10,7 +10,7 @@ fi
 website_address="$1"
 
 # Step 1: Run httpx command and save results
-cat "output.${website_address}.txt" | dnsx -silent | while read line; do
+cat "prev_output.${website_address}.txt" | dnsx -silent | while read line; do
     echo "$line" | httpx -silent -follow-host-redirects -title -status-code -cdn -tech-detect \
         -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0" \
         -H "Referer: $line"
