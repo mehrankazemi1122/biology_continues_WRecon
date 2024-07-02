@@ -49,3 +49,5 @@ fi
 # Step 6: Replace previous output file with current output file
 rm -f "prev_output.${website_address}.txt"
 mv "output.${website_address}.txt" "prev_output.${website_address}.txt"
+
+./httpx_discord.sh "$website_address"
