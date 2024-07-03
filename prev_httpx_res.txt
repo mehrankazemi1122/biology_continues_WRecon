@@ -2,6 +2,8 @@ https://accounts-otp.verisign.com [[33m307[0m,[32m200[0m] [[35mhttps://acco
 https://brn1mailers.verisign.com [[32m200[0m] [[36mA global provider of domain name registry services and internet infrastructure | Verisign[0m] [[35mApache HTTP Server,HSTS,Hugo:0.114.1,OneTrust[0m]
 https://click.messages.verisign.com [[31m403[0m] [[36m403 - Forbidden: Access is denied.[0m] [[35mHSTS[0m]
 https://crl.verisign.com [[31m404[0m] [[36m404 - Not Found[0m] [[35mAzure,Azure CDN[0m]
+https://cube.verisign.com [[32m200[0m] [[35mApache HTTP Server,HSTS[0m]
+https://developer.verisign.com [[33m301[0m,[32m200[0m] [[35mhttps://developer.verisign.com/devhub/[0m] [[35mApache HTTP Server,HSTS,Java[0m]
 https://globalprotect.verisign.com [[33m302[0m,[31m404[0m] [[35mhttps://globalprotect.verisign.com/global-protect/login.esp[0m]
 https://gp-fri.verisign.com [[33m302[0m,[32m200[0m] [[36mGlobalProtect Portal[0m] [[35mhttps://gp-fri.verisign.com/global-protect/login.esp[0m] [[35mBootstrap,HSTS,jQuery[0m]
 https://gp-mel.verisign.com [[33m302[0m,[32m200[0m] [[36mGlobalProtect Portal[0m] [[35mhttps://gp-mel.verisign.com/global-protect/login.esp[0m] [[35mBootstrap,HSTS,jQuery[0m]
