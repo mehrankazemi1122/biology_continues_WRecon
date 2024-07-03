@@ -11,3 +11,4 @@ gp-test
 gp
 mem-dr
 pds
+rdap
