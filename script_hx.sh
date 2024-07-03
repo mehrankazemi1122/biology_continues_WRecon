@@ -44,11 +44,11 @@ if [ -f "prev_httpx_res.txt" ]; then
         echo "services changes:"
         while IFS= read -r line; do
             echo "first while approved !"
-            prev_line=$(grep -F "$(echo "$line" | awk -F'[[:space:][:punct:]]' '{print $1}')" prev_httpx_res.txt)
+            prev_line=$(grep -F "$(echo "$line" | awk -F'[[]' '{print $1}')" prev_httpx_res.txt)
             echo "meghdar parameter prev_line : $prev_line"
             echo "previous : $prev_line"
             echo "updated : $line"
-            send_discord_notification "services changes: **** previous : $prev_line **** updated : $line"
+            send_discord_notification "services changes: **** previous **** : $prev_line **** updated **** : $line"
         done <<< "$changes"
     fi
 fi
