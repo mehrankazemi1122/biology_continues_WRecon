@@ -47,7 +47,7 @@ if [ -f "prev_httpx_res.txt" ]; then
             prev_line=$(grep -F "$line" prev_httpx_res.txt)
             echo "previous : $prev_line"
             echo "updated : $line"
-            send_discord_notification "services changes: **** previous : $prev_line ******** updated : $line"
+            send_discord_notification "services changes: **** previous : $prev_line **** updated : $line"
         done <<< "$changes"
     fi
 fi
