@@ -9,4 +9,5 @@ gp-fri
 gp-mel
 gp-test
 gp
+mem-dr
 
