@@ -5,7 +5,6 @@ crl
 cube
 developer
 globalprotect
-gp-fri
 gp-mel
 gp-test
 gp
