@@ -48,7 +48,7 @@ if [ -f "prev_httpx_res.txt" ]; then
             echo "meghdar parameter prev_line : $prev_line"
             echo "previous : $prev_line"
             echo "updated : $line"
-            send_discord_notification "services changes: **** previous **** : $prev_line **** updated **** : $line"
+            send_discord_notification "services changes: **** previous **** : $prev_line \n**** updated **** : $line\n"
         done <<< "$changes"
     fi
 fi
