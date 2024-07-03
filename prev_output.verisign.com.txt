@@ -5,7 +5,6 @@ crl.verisign.com
 cube.verisign.com
 developer.verisign.com
 globalprotect.verisign.com
-gp-fri.verisign.com
 gp-mel.verisign.com
 gp-test.verisign.com
 gp.verisign.com
