@@ -8,3 +8,4 @@ gp-fri.verisign.com
 gp-mel.verisign.com
 gp-test.verisign.com
 gp.verisign.com
+ocsp.verisign.com 
