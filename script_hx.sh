@@ -13,13 +13,17 @@ website_address="$1"
 send_discord_notification() {
     local content="$1"
     local webhook_url="https://discord.com/api/webhooks/1257309085351542786/ijyiMHCcmhafcTqgumjZkLFLJAOuPvvgTqNdas3Rg3v1uHr8Qf07TNLq_Oo1JYajBlM8"
-    
-    # Add a delay of 5 seconds before sending each notification
+
+    # Add a delay of 1 second before sending each notification
     sleep 1
-    
+
+    # Escape special characters and format the JSON payload
+    local json_payload=$(jq -n --arg content "$content" '{"content":$content}')
+
     # Send the notification
-    curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"$content\"}" "$webhook_url"
+    curl -H "Content-Type: application/json" -X POST -d "$json_payload" "$webhook_url"
 }
+
 
 # Step 1: Run httpx command and save results
 cat "prev_output.${website_address}.txt" | dnsx -silent | while read line; do
