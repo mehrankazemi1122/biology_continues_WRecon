@@ -11,3 +11,4 @@ https://gp-test.verisign.com [[33m302[0m,[31m404[0m] [[35mhttps://gp-test.v
 https://gp.verisign.com [[33m302[0m,[31m404[0m] [[35mhttps://gp.verisign.com/global-protect/login.esp[0m]
 https://mem-dr.verisign.com [[32m200[0m] [[35mHSTS[0m]
 https://pds.verisign.com [[33m301[0m,[32m200[0m] [[35mhttps://pds.verisign.com/pds/[0m] [[35mApache HTTP Server,HSTS,Java[0m]
+https://rdap.verisign.com [[31m400[0m]

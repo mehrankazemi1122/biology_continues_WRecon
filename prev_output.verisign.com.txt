@@ -11,3 +11,4 @@ gp-test.verisign.com
 gp.verisign.com
 mem-dr.verisign.com
 pds.verisign.com
+rdap.verisign.com
