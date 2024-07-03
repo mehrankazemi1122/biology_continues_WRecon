@@ -30,7 +30,7 @@ send_discord_notification() {
 # Step 1: Run httpx command and save results
 echo "main command is executing"
 cat "prev_output.${website_address}.txt" | dnsx -silent | while read line; do
-    echo "$line" | httpx -silent -follow-host-redirects -title -status-code -cdn -tech-detect \
+    echo "$line" | httpx -silent -follow-host-redirects -nc -title -status-code -cdn -tech-detect \
         -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:108.0) Gecko/20100101 Firefox/108.0" \
         -H "Referer: $line"
 done | sort -u > httpx_res.txt
