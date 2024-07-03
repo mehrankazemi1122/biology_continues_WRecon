@@ -50,4 +50,4 @@ fi
 rm -f "prev_output.${website_address}.txt"
 mv "output.${website_address}.txt" "prev_output.${website_address}.txt"
 
-#./httpx_discord.sh "$website_address"
+./script_hx.sh "$website_address"
