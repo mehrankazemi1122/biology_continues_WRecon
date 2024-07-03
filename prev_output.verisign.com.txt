@@ -2,6 +2,7 @@ accounts-otp.verisign.com
 brn1mailers.verisign.com
 click.messages.verisign.com
 crl.verisign.com
+cube.verisign.com
 developer.verisign.com
 globalprotect.verisign.com
 gp-fri.verisign.com
