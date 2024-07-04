@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     # Runs at 3:00 AM UTC every day
-    - cron: '0 */5 * * *'
+    - cron: '* */5 * * *'
 
 
 jobs:
