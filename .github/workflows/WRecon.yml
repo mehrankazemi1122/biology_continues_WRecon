@@ -67,6 +67,7 @@ jobs:
         ./script_hx.sh verisign.com
         ls
         cat prev_output.verisign.com.txt
+        rm -rf best-dns-wordlist.txt 2m-subdomains.txt 4_chars.txt all_subs.txt all combined1.txt combined2.txt kovo_subs.txt subdomains-assetnote-merged.txt
 
         
           
