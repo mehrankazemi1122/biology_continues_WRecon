@@ -1,6 +1,13 @@
 name: Masscan and ShuffleDNS Installation
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Runs at 3:00 AM UTC every day
+    - cron: '0 */5 * * *'
+
 
 jobs:
   install-tools:
