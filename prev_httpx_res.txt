@@ -35,7 +35,6 @@ https://publicdnsforum.verisign.com [301] [301 Moved Permanently] [Apache HTTP S
 https://rdap.verisign.com [400]
 https://request.verisign.com [404] [404 - Not found or no permission to access] [Bootstrap]
 https://ro-otp.verisign.com [301,200] [https://ro-otp.verisign.com/roui/] [Apache HTTP Server,HSTS,Java]
-https://sign.com [200] [Secure Signatures Online for Free] [HSTS,Vercel]
 https://smetrics.verisign.com [200] [HSTS]
 https://startonline.verisign.com [200] [Key Benefits of Having a .com Domain Name for Your Business] [Apache HTTP Server,HSTS,Hugo:0.114.1,OneTrust]
 https://styleguide.verisign.com [301] [301 Moved Permanently] [Apache HTTP Server,HSTS]
