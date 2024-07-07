@@ -288,6 +288,7 @@ spark.verisign.com
 square.verisign.com
 sslftp.verisign.com
 sso.verisign.com
+sss-uat.verisign.com
 sss.verisign.com
 stargate.verisign.com
 startonline.verisign.com
