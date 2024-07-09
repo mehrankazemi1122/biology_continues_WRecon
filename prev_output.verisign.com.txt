@@ -1,3 +1,5 @@
+.verisign.com
+Blog.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
@@ -50,7 +52,6 @@ dbms.verisign.com
 desktopsupport.verisign.com
 developer.verisign.com
 dm.verisign.com
-dnssecforum.verisign.com
 dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
@@ -137,7 +138,6 @@ mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
-mailer3.verisign.com
 mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
@@ -206,7 +206,6 @@ ns33.verisign.com
 ns34.verisign.com
 ns35.verisign.com
 ns36.verisign.com
-ns37.verisign.com
 ns38.verisign.com
 ns39.verisign.com
 ns4.verisign.com
@@ -274,13 +273,13 @@ scs-test.verisign.com
 search.verisign.com
 sentinel.verisign.com
 services.mss.verisign.com
-ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
 sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
+skylarkses.clearing.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
@@ -317,7 +316,6 @@ usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
-vdps.verisign.com
 vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
@@ -343,7 +341,7 @@ welcome.verisign.com
 whois.verisign.com
 workbench.mss.verisign.com
 www.mywebsite.verisign.com
-www.research.verisign.com
+www.research.verisign.comvdps.verisign.com
 www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
 www.verisign.com
