@@ -151,6 +151,7 @@ maple.verisign.com
 mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
+mdm1.verisign.com
 mdmuat.verisign.com
 mdmz.verisign.com
 meetings-webex.verisign.com
@@ -188,6 +189,7 @@ ns16.verisign.com
 ns17.verisign.com
 ns18.verisign.com
 ns19.verisign.com
+ns2.verisign.com
 ns20.verisign.com
 ns21.verisign.com
 ns22.verisign.com
@@ -250,6 +252,7 @@ portal.mss.verisign.com
 pts.verisign.com
 publicdnsforum.verisign.com
 qa4-api.verisign.com
+qaweb.verisign.com
 quasar.verisign.com
 query.verisign.com
 rdap.verisign.com
@@ -261,6 +264,7 @@ rnr.verisign.com
 ro-otp.verisign.com
 ro.verisign.com
 roaminghub.verisign.com
+robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
 safari.verisign.com
@@ -290,6 +294,7 @@ stargate.verisign.com
 startonline.verisign.com
 status.verisign.com
 statuschange.verisign.com
+styleguide.verisign.com
 sun.mss.verisign.com
 support-otp.verisign.com
 support.verisign.com
