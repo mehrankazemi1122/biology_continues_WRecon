@@ -138,6 +138,7 @@ mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
 mailer3.verisign.com
+mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
