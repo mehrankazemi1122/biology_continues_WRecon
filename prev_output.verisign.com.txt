@@ -1,3 +1,4 @@
+.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
@@ -8,7 +9,6 @@ andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
 att.mss.verisign.com
-autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
@@ -116,7 +116,6 @@ join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
 labs.verisign.com
-legacy.corparch.verisign.com
 legacy.verisign.com
 login-otp.verisign.com
 login.verisign.com
@@ -188,6 +187,7 @@ ns15.verisign.com
 ns16.verisign.com
 ns17.verisign.com
 ns18.verisign.com
+ns19.verisign.colegacy.corparch.verisign.com
 ns19.verisign.com
 ns2.verisign.com
 ns20.verisign.com
