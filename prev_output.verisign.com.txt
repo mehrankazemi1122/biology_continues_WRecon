@@ -22,6 +22,7 @@ brn1lxmailout02.verisign.com
 brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
+c42.verisign.com
 caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
@@ -219,7 +220,6 @@ nswm-service.verisign.com
 ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
-onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 osprey.verisign.com
