@@ -1,5 +1,4 @@
 http://onsitecrl.verisign.com [502] [Apache HTTP Server]
-https://accounts-otp.verisign.com [307,200] [https://accounts-otp.verisign.com/vac/] [Apache HTTP Server,HSTS,Java]
 https://blog.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
 https://blogs.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
 https://brn1mailers.verisign.com [200] [A global provider of domain name registry services and internet infrastructure | Verisign] [Apache HTTP Server,HSTS,Hugo:0.114.1,OneTrust]

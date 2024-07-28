@@ -1,5 +1,4 @@
 access.verisign.com
-accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
@@ -61,7 +60,6 @@ elearning.verisign.com
 email.gh-mail.verisign.com
 entsecurity.verisign.com
 eol-redirect.verisign.com
-epcdev.verisign.com
 er.verisign.com
 everest.verisign.com
 everest1.verisign.com
@@ -154,6 +152,7 @@ mdm.corparch.verisign.com
 mdm1.verisign.com
 mdmuat.verisign.com
 mdmz.verisign.com
+meeses.clearing.verisign.com
 meetings-webex.verisign.com
 mem-dr.verisign.com
 mem.verisign.com
@@ -176,7 +175,6 @@ musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
-netexch.clearing.verisign.com
 nrd.verisign.com
 nrdz.verisign.com
 ns1.verisign.com
@@ -204,6 +202,7 @@ ns31.verisign.com
 ns32.verisign.com
 ns33.verisign.com
 ns34.verisign.com
+ns35.verisign.com
 ns36.verisign.com
 ns37.verisign.com
 ns38.verisign.com
@@ -227,6 +226,7 @@ ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
+otp.verisign.com
 overlord.verisign.com
 owas.verisign.com
 pages.messages.verisign.com
@@ -273,7 +273,6 @@ scs-test.verisign.com
 search.verisign.com
 sentinel.verisign.com
 services.mss.verisign.com
-ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
 sipaccess-dr.verisign.com
