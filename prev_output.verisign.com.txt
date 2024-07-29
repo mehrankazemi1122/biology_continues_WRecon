@@ -3,11 +3,9 @@ accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
-alertus.verisign.com
 andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
-att.mss.verisign.com
 autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
@@ -187,7 +185,6 @@ ns14.verisign.com
 ns15.verisign.com
 ns16.verisign.com
 ns17.verisign.com
-ns18.verisign.com
 ns19.verisign.com
 ns2.verisign.com
 ns20.verisign.com
@@ -200,6 +197,7 @@ ns28.verisign.com
 ns29.verisign.com
 ns3.verisign.com
 ns30.verisign.com
+ns31.verisign.com
 ns32.verisign.com
 ns33.verisign.com
 ns34.verisign.com
@@ -213,7 +211,6 @@ ns40.verisign.com
 ns7.verisign.com
 ns8.verisign.com
 nsw-api.verisign.com
-nsw-config.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
 ocsp.verisign.com
