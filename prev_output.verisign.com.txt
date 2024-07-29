@@ -200,7 +200,6 @@ ns28.verisign.com
 ns29.verisign.com
 ns3.verisign.com
 ns30.verisign.com
-ns31.verisign.com
 ns32.verisign.com
 ns33.verisign.com
 ns34.verisign.com
