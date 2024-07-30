@@ -54,6 +54,7 @@ dnssecforum.verisign.com
 dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
+e-lync-dir.verisign.com
 eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
