@@ -1,9 +1,7 @@
-.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
-ackers.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -53,6 +51,7 @@ desktopsupport.verisign.com
 developer.verisign.com
 dm.verisign.com
 dnssecforum.verisign.com
+dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
@@ -105,6 +104,7 @@ intranet-2.verisign.com
 investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
+ips.verisign.com
 ispcenter-admin.verisign.com
 ispcenter-enroll.verisign.com
 ispcenter.verisign.com
@@ -139,9 +139,12 @@ mailer1.verisign.com
 mailer2.verisign.com
 mailer3.verisign.com
 mailer4.verisign.com
+mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
+mailhost2.verisign.com
+mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
@@ -169,6 +172,7 @@ mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
 mssportal.verisign.com
+musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
@@ -219,15 +223,13 @@ onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
+osprey.verisign.com
 ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
 overlord.verisign.com
 owas.verisign.com
-owas.verisign.comailhost2.verisign.com
-owas.verisign.comailhost3.verisign.com
-owas.verisign.comusketeer.verisign.com
 pages.messages.verisign.com
 pciscanning.mss.verisign.com
 pds.verisign.com
@@ -282,6 +284,7 @@ skylark.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
+spark.verisign.com
 square.verisign.com
 sslftp.verisign.com
 sso.verisign.com
@@ -306,6 +309,7 @@ topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
 tuvalu.verisign.com
+ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
