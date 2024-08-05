@@ -3,6 +3,7 @@ accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
+alertus.verisign.com
 andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
@@ -91,6 +92,7 @@ hal9000.verisign.com
 helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
+icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
