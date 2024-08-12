@@ -98,6 +98,7 @@ infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
+international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
