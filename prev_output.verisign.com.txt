@@ -1,3 +1,4 @@
+.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
@@ -10,7 +11,6 @@ artemis.verisign.com
 att.mss.verisign.com
 autodiscover.corparch.verisign.com
 av.verisign.com
-avedge-dr.verisign.com
 avedge.verisign.com
 blog.verisign.com
 blogs.verisign.com
@@ -25,7 +25,6 @@ byod-portal.verisign.com
 c42.verisign.com
 caladan.verisign.com
 cap.verisign.com
-careers.verisign.com
 ccprocessing.verisign.com
 cic.verisign.com
 cicsensor.verisign.com
@@ -60,7 +59,6 @@ eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
 entsecurity.verisign.com
-eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
 everest.verisign.com
@@ -70,6 +68,7 @@ extranet.mss.verisign.com
 forms.verisign.com
 fpe.verisign.com
 ftp.mss.verisign.com
+g.verisign.com
 gatekeeper.verisign.com
 gateway.verisign.com
 gateway1.verisign.com
@@ -94,7 +93,6 @@ heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
-infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
@@ -145,8 +143,9 @@ mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
-mailhosteu.verisign.com
-maintenance.verisign.com
+mailhostmailhosteu.verisign.com
+mailhostmaintenance.verisign.com
+mailhostonsitecrl.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
 marketing.verisign.com
@@ -171,7 +170,6 @@ mms.verisign.com
 mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
-mssportal.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
@@ -221,7 +219,6 @@ ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
-onsitecrl.verisign.com
 orientation.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
@@ -329,7 +326,6 @@ vpn.verisign.com
 vps-psc.verisign.com
 vsc.verisign.com
 vts.verisign.com
-vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
 webcon.verisign.com
 webconf-dr.verisign.com
@@ -344,7 +340,6 @@ whois.verisign.com
 workbench.mss.verisign.com
 www.mywebsite.verisign.com
 www.research.verisign.com
-www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
 www.verisign.com
 www.webbusiness.verisign.com
