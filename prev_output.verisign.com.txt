@@ -1,4 +1,3 @@
--services.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
@@ -58,12 +57,6 @@ e-lync-dir.verisign.com
 eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
-email.gh-mail.verisigcareers.verisign.com
-email.gh-mail.verisign.com
-email.gh-mail.verisigns2.verisign.com
-email.gh-mail.verisigonlinecontracts-security-services.verisign.com
-email.gh-mail.verisigvendorportal.verisign.com
-email.gh-mail.verisigwebexteams.verisign.com
 entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
@@ -120,7 +113,6 @@ jinf.verisign.com
 join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
-keteer.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
 legacy.verisign.com
@@ -149,6 +141,7 @@ mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
+mailhost2.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
@@ -181,6 +174,7 @@ musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
+ndr.verisign.com
 netexch.clearing.verisign.com
 nrd.verisign.com
 nrdz.verisign.com
@@ -194,6 +188,7 @@ ns16.verisign.com
 ns17.verisign.com
 ns18.verisign.com
 ns19.verisign.com
+ns2.verisign.com
 ns20.verisign.com
 ns21.verisign.com
 ns22.verisign.com
@@ -227,7 +222,6 @@ onetrust.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 osprey.verisign.com
-ost3.verisign.com
 ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
@@ -258,7 +252,6 @@ publicdnsforum.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
 quasar.verisign.com
-query.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
@@ -290,6 +283,7 @@ smtp.verisign.com
 soaprod.verisign.com
 spark.verisign.com
 square.verisign.com
+sslftp.verisign.com
 sso.verisign.com
 sss-uat.verisign.com
 sss.verisign.com
@@ -302,6 +296,7 @@ sun.mss.verisign.com
 support-otp.verisign.com
 support.verisign.com
 survey.verisign.com
+test-admin.contentportal.verisign.com
 test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
 thebes.verisign.com
@@ -310,8 +305,12 @@ tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
+tuvalcareers.verisign.com
+tuvalonlinecontracts-security-services.verisign.com
+tuvalquery.verisign.com
 tuvalu.verisign.com
-ued.verisign.com
+tuvalued.verisign.com
+tuvalwebexteams.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
@@ -321,6 +320,7 @@ validation.verisign.com
 validation2.verisign.com
 vdps.verisign.com
 vdpsreports.verisign.com
+vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
 view.messages.verisign.com
