@@ -8,7 +8,6 @@ andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
 att.mss.verisign.com
-autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
@@ -63,6 +62,8 @@ entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
+everest.verisign.com
+everest1.verisign.com
 everest2.verisign.com
 extranet.mss.verisign.com
 forms.verisign.com
@@ -98,6 +99,7 @@ infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
+intranet-2.verisign.com
 investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
@@ -114,7 +116,6 @@ join.verisign.com
 joshua.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
-legacy.verisign.com
 login-otp.verisign.com
 login.verisign.com
 logindr.verisign.com
@@ -192,7 +193,6 @@ ns21.verisign.com
 ns22.verisign.com
 ns25.verisign.com
 ns26.verisign.com
-ns27.verisign.com
 ns28.verisign.com
 ns29.verisign.com
 ns3.verisign.com
@@ -264,7 +264,6 @@ roaminghub.verisign.com
 robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
-safari.verisign.coeverest1.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
@@ -334,7 +333,6 @@ webconf-dr.verisign.com
 webconf.verisign.com
 webexteams.verisign.com
 webidentity.verisign.com
-webmail.corparch.verisign.com
 webnum.verisign.com
 webwhois.verisign.com
 welcome.verisign.com
