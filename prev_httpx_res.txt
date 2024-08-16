@@ -38,7 +38,6 @@ https://ro-otp.verisign.com [301,200] [https://ro-otp.verisign.com/roui/] [Apach
 https://smetrics.verisign.com [200] [HSTS]
 https://startonline.verisign.com [200] [Key Benefits of Having a .com Domain Name for Your Business] [Apache HTTP Server,HSTS,Hugo:0.114.1,OneTrust]
 https://styleguide.verisign.com [301] [301 Moved Permanently] [Apache HTTP Server,HSTS]
-https://support-otp.verisign.com [301,200] [https://support-otp.verisign.com/vcc/] [Apache HTTP Server,HSTS,Java]
 https://tld-rdap.verisign.com [400]
 https://tld-webwhois.verisign.com [302] [302 Found] [Apache HTTP Server,HSTS]
 https://unav-otp.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
