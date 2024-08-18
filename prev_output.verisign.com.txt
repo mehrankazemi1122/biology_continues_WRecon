@@ -142,7 +142,6 @@ mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
-mailhost1.tuvalu.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
@@ -173,6 +172,7 @@ mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
 mssportal.verisign.com
+musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
@@ -308,6 +308,7 @@ tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
+tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
