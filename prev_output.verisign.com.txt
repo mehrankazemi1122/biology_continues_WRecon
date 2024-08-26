@@ -15,7 +15,6 @@ avedge.verisign.com
 blog.verisign.com
 blogs.verisign.com
 brandcenter.verisign.com
-brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
 brn1lxmailout01.verisign.com
 brn1lxmailout02.verisign.com
@@ -132,6 +131,7 @@ mail01.marketing.verisign.com
 mail1.verisign.com
 mail2.verisign.com
 mail3.verisign.com
+mail4.verisign.com
 mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
@@ -205,6 +205,7 @@ ns33.verisign.com
 ns34.verisign.com
 ns35.verisign.com
 ns36.verisign.com
+ns37.verisign.com
 ns38.verisign.com
 ns39.verisign.com
 ns4.verisign.com
