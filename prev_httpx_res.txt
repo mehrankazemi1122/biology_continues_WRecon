@@ -16,7 +16,6 @@ https://gp-web.verisign.com [302,200] [GlobalProtect Portal] [https://gp-web.ver
 https://gp.verisign.com [302,404] [https://gp.verisign.com/global-protect/login.esp]
 https://login-otp.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.verisign.com [404] [404 Not Found] [Apache HTTP Server]
-https://mem-dr.verisign.com [200] [HSTS]
 https://mem.verisign.com [200] [HSTS]
 https://nsw-api.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
 https://nsw-config.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
