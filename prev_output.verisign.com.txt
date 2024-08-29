@@ -58,8 +58,8 @@ e-lync-dir.verisign.com
 eagle.verisign.com
 eim.verisign.com
 elearning.verisign.com
+email.gh-mail.verisign.com
 entsecurity.verisign.com
-eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
 everest.verisign.com
@@ -208,7 +208,6 @@ ns36.verisign.com
 ns37.verisign.com
 ns38.verisign.com
 ns39.verisign.com
-ns4.verisign.com
 ns40.verisign.com
 ns7.verisign.com
 ns8.verisign.com
@@ -217,13 +216,10 @@ nsw-config.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
 ocsp.verisign.com
-ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
-orientation.verisign.com
 osprey.verisign.com
-ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
@@ -250,6 +246,7 @@ pmg2.verisign.com
 portal.mss.verisign.com
 pts.verisign.com
 publicdnsforum.verisign.com
+publicdnsfstatus.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
 quasar.verisign.com
@@ -291,7 +288,6 @@ sss-uat.verisign.com
 sss.verisign.com
 stargate.verisign.com
 startonline.verisign.com
-status.verisign.com
 statuschange.verisign.com
 styleguide.verisign.com
 sun.mss.verisign.com
@@ -329,6 +325,7 @@ vps-psc.verisign.com
 vsc.verisign.com
 vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
+vulture.verisign.com
 webcon.verisign.com
 webconf-dr.verisign.com
 webconf.verisign.com
