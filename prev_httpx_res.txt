@@ -12,7 +12,6 @@ https://globalprotect.verisign.com [302,404] [https://globalprotect.verisign.com
 https://gp-fri.verisign.com [302,200] [GlobalProtect Portal] [https://gp-fri.verisign.com/global-protect/login.esp] [Bootstrap,HSTS,jQuery]
 https://gp-mel.verisign.com [302,200] [GlobalProtect Portal] [https://gp-mel.verisign.com/global-protect/login.esp] [Bootstrap,HSTS,jQuery]
 https://gp-test.verisign.com [302,404] [https://gp-test.verisign.com/global-protect/login.esp]
-https://gp-web.verisign.com [302,200] [GlobalProtect Portal] [https://gp-web.verisign.com/global-protect/login.esp] [Bootstrap,HSTS,jQuery]
 https://gp.verisign.com [302,404] [https://gp.verisign.com/global-protect/login.esp]
 https://login-otp.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.verisign.com [404] [404 Not Found] [Apache HTTP Server]
