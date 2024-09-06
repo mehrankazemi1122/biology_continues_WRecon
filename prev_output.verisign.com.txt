@@ -4,6 +4,7 @@ accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
+andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
 att.mss.verisign.com
@@ -62,7 +63,6 @@ entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
-ernap.mss.verisign.comstargate.verisign.com
 everest.verisign.com
 everest1.verisign.com
 everest2.verisign.com
@@ -102,14 +102,15 @@ international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
-ios.verisign.com
 ipconnect.verisign.com
 ips.verisign.com
 ispcenter-admin.verisign.com
+ispcenter-enroll.verisign.com
 ispcenter.verisign.com
 ispservices.verisign.com
 jamf.verisign.com
 jamfdev.verisign.com
+jinf.verisign.com
 join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
@@ -131,6 +132,7 @@ mail1.verisign.com
 mail2.verisign.com
 mail3.verisign.com
 mail4.verisign.com
+mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
@@ -140,6 +142,7 @@ mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
+mailhost2.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
@@ -207,6 +210,7 @@ ns38.verisign.com
 ns39.verisign.com
 ns4.verisign.com
 ns40.verisign.com
+ns7.verisign.com
 ns8.verisign.com
 nsw-api.verisign.com
 nsw-config.verisign.com
@@ -217,7 +221,6 @@ ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
-orientation.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
 ote-cube.verisign.com
@@ -285,6 +288,7 @@ sslftp.verisign.com
 sso.verisign.com
 sss-uat.verisign.com
 sss.verisign.com
+stargate.verisign.com
 startonline.verisign.com
 status.verisign.com
 statuschange.verisign.com
@@ -337,6 +341,7 @@ welcome.verisign.com
 whois.verisign.com
 workbench.mss.verisign.com
 www.mywebsite.verisign.com
+www.research.verisign.com
 www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
 www.verisign.com
