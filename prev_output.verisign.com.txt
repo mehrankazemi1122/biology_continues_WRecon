@@ -19,9 +19,9 @@ brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
 brn1lxmailout01.verisign.com
 brn1lxmailout02.verisign.com
-brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
+c42.verisign.com
 caladan.verisign.com
 cap.verisign.com
 careers.verisign.com
@@ -50,7 +50,6 @@ desktopsupport.verisign.com
 developer.verisign.com
 dm.verisign.com
 dnssecforum.verisign.com
-dodeca.verisign.com
 dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
@@ -72,17 +71,18 @@ ftp.mss.verisign.com
 gatekeeper.verisign.com
 gateway.verisign.com
 gateway1.verisign.com
+gateway1.verisign.combrn1mailers.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
 gladiator.verisign.com
 globalcrossing.mss.verisign.com
+globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
 gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
 gp-test.verisign.com
-gp-test.verisimeetings-webex.verisign.com
 gp-web.verisign.com
 gp.verisign.com
 graphicslibrary.verisign.com
@@ -147,12 +147,12 @@ mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
-mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
 mdm1.verisign.com
 mdmuat.verisign.com
 mdmz.verisign.com
+meetings-webex.verisign.com
 mem-dr.verisign.com
 mem.verisign.com
 messages.verisign.com
@@ -168,6 +168,7 @@ mms-demo.verisign.com
 mms.verisign.com
 mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
+mra.verisign.com
 mssportal.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
@@ -319,7 +320,6 @@ vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
-verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
 vpn-mel.verisign.com
@@ -342,7 +342,6 @@ whois.verisign.com
 workbench.mss.verisign.com
 www.mywebsite.verisign.com
 www.research.verisign.com
-www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
 www.verisign.com
 www.webbusiness.verisign.com
