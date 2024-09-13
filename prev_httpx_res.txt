@@ -1,3 +1,4 @@
+http://onsitecrl.verisign.com [200] [Nginx]
 https://accounts-otp.verisign.com [307,200] [https://accounts-otp.verisign.com/vac/] [Apache HTTP Server,HSTS,Java]
 https://blog.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
 https://blogs.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
