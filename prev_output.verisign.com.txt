@@ -3,6 +3,7 @@ accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
+alertus.verisign.com
 andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
@@ -18,6 +19,7 @@ brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
 brn1lxmailout01.verisign.com
 brn1lxmailout02.verisign.com
+brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
 c42.verisign.com
@@ -93,6 +95,8 @@ host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
+informationportal.verisign.com
+infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
@@ -217,6 +221,7 @@ ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
+onsitecrl.verisign.com
 orientation.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
@@ -305,12 +310,14 @@ trackers.verisign.com
 translations.verisign.com
 tuvalu.verisign.com
 ued.verisign.com
+unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
 usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
+vdps.verisign.com
 vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
