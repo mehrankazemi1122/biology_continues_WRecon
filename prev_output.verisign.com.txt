@@ -92,7 +92,6 @@ hal9000.verisign.com
 helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
-icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
