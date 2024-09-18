@@ -2,13 +2,13 @@ access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
-ackers.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
 att.mss.verisign.com
+autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
@@ -17,17 +17,20 @@ blogs.verisign.com
 brandcenter.verisign.com
 brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
+brn1lxmailout01.verisign.com
 brn1lxmailout02.verisign.com
 brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
 c42.verisign.com
 caladan.verisign.com
+canning.mss.verisign.com
 cap.verisign.com
 careers.verisign.com
 ccprocessing.verisign.com
 cic.verisign.com
 cicsensor.verisign.com
+circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
 clearing.verisign.com
@@ -50,6 +53,7 @@ developer.verisign.com
 dm.verisign.com
 dnssecforum.verisign.com
 dodeca.verisign.com
+dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
 eagle.verisign.com
@@ -60,6 +64,7 @@ entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
+esearch.verisign.com
 everest.verisign.com
 everest1.verisign.com
 everest2.verisign.com
@@ -68,7 +73,6 @@ forms.verisign.com
 fpe.verisign.com
 ftp.mss.verisign.com
 gatekeeper.verisign.com
-gateway.verisign.com
 gateway1.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
@@ -83,7 +87,6 @@ gp-sars.verisign.com
 gp-test.verisign.com
 gp-web.verisign.com
 gp.verisign.com
-graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
 helpdesk.verisign.com
@@ -92,10 +95,10 @@ host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
 infocenter.verisign.com
+informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
-internatstatuschange.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
@@ -113,6 +116,7 @@ join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
 labs.verisign.com
+legacy.corparch.verisign.com
 legacy.verisign.com
 login-otp.verisign.com
 login.verisign.com
@@ -123,7 +127,6 @@ lws-ext.verisign.com
 lyncdiscover.corparch.verisign.com
 lyncdiscover.verisign.com
 lyncedge-ext.corparch.verisign.com
-lyncrp.verisigcircle.verisign.com
 lyncrp.verisign.com
 mail01.marketing.verisign.com
 mail1.verisign.com
@@ -139,9 +142,6 @@ mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
-mailhost1.verisign.com
-mailhost2.verisign.com
-mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
@@ -168,7 +168,12 @@ mms.verisign.com
 mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
+mssportal.verisiggateway.verisign.com
+mssportal.verisigmailhost1.verisign.com
+mssportal.verisigmailhost2.verisign.com
+mssportal.verisigmailhost3.verisign.com
 mssportal.verisign.com
+mssportal.verisigsmetrics.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
@@ -263,7 +268,6 @@ ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
 rss.verisign.com
-rtma.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
@@ -278,7 +282,6 @@ sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
-smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
 spark.verisign.com
@@ -290,6 +293,7 @@ sss.verisign.com
 stargate.verisign.com
 startonline.verisign.com
 status.verisign.com
+statuschange.verisign.com
 styleguide.verisign.com
 sun.mss.verisign.com
 support-otp.verisign.com
@@ -303,6 +307,7 @@ tld-rdap.verisign.com
 tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
+translations.verisign.com
 tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
@@ -311,7 +316,6 @@ user-apis.verisign.com
 usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
-validation2.verisign.com
 vdps.verisign.com
 vdpsreports.verisign.com
 vendorportal.verisign.com
