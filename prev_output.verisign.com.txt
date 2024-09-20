@@ -36,6 +36,7 @@ clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
 contentservices.verisign.com
+contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
 crl.verisign.com
