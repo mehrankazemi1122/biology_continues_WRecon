@@ -68,13 +68,11 @@ everest1.verisign.com
 everest2.verisign.com
 extranet.mss.verisign.com
 forms.verisign.com
-fpe.verisign.com
 ftp.mss.verisign.com
 gatekeeper.verisign.com
 gateway.verisign.com
 gateway1.verisign.com
 gateway2.verisign.com
-gateway3.verisign.com
 gladiator.verisign.com
 globalcrossing.mss.verisign.com
 globalprotect.verisign.com
@@ -86,7 +84,6 @@ gp-sars.verisign.com
 gp-test.verisign.com
 gp-web.verisign.com
 gp.verisign.com
-graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
 helpdesk.verisign.com
@@ -143,6 +140,9 @@ mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
+mailhost3.verisign.cfpe.verisign.com
+mailhost3.verisign.cgraphicslibrary.verisign.com
+mailhost3.verisign.cinternational.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
@@ -215,7 +215,6 @@ ns8.verisign.com
 nsw-api.verisign.com
 nsw-config.verisign.com
 nsw-service.verisign.com
-nswm-service.veinternational.verisign.com
 nswm-service.verisign.com
 ocsp.verisign.com
 ocwa.verisign.com
@@ -299,7 +298,6 @@ sun.mss.verisign.com
 support-otp.verisign.com
 support.verisign.com
 survey.verisign.com
-t-110.verisign.com
 test-admin.contentportal.verisign.com
 test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
@@ -308,11 +306,12 @@ tld-rdap.verisign.com
 tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
+translations.verisign.com
 tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
-user-apis.verisign.com
+unts.verisign.com
 usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
