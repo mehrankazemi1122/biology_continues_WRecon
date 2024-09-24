@@ -108,8 +108,10 @@ ips.verisign.com
 ispcenter-admin.verisign.com
 ispcenter-enroll.verisign.com
 ispcenter.verisign.com
+ispservices.verisign.com
 jamf.verisign.com
 jamfdev.verisign.com
+jinf.verisign.com
 join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
@@ -127,7 +129,6 @@ lyncdiscover.verisign.com
 lyncedge-ext.corparch.verisign.com
 lyncrp.verisign.com
 mail01.marketing.verisign.com
-mail1.verisign.com
 mail2.verisign.com
 mail3.verisign.com
 mail4.verisign.com
@@ -216,6 +217,7 @@ nsw-config.verisign.com
 nsw-service.verisign.com
 nswm-service.verisign.com
 ocsp.verisign.com
+ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
