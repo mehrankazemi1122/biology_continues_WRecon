@@ -3,7 +3,6 @@ accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
 alerts.verisign.com
-alertus.verisign.com
 andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
@@ -39,6 +38,10 @@ contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
+cp.verisimeetings-webex.verisign.com
+cp.verisionsitecrl.verisign.com
+cp.verisisipaccess.verisign.com
+cp.verisivalidation.verisign.com
 crl.verisign.com
 crow.verisign.com
 cube.verisign.com
@@ -112,6 +115,7 @@ ispservices.verisign.com
 jamf.verisign.com
 jamfdev.verisign.com
 jinf.verisign.com
+jinf.vote-login-otp.verisign.com
 join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
@@ -145,6 +149,7 @@ mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
+mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
@@ -153,7 +158,6 @@ mdm.corparch.verisign.com
 mdm1.verisign.com
 mdmuat.verisign.com
 mdmz.verisign.com
-meetings-webex.verisign.com
 mem-dr.verisign.com
 mem.verisign.com
 messages.verisign.com
@@ -166,7 +170,6 @@ mmadmin-enroll.verisign.com
 mmadmin-manager.verisign.com
 mmadmin.verisign.com
 mms-demo.verisign.com
-mms.verisign.com
 mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
@@ -220,12 +223,10 @@ ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
-onsitecrl.verisign.com
 orientation.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
 ote-cube.verisign.com
-ote-login-otp.verisign.com
 ote-login.verisign.com
 overlord.verisign.com
 owas.verisign.com
@@ -277,7 +278,6 @@ ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
 sipaccess-dr.verisign.com
-sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
@@ -314,7 +314,6 @@ unav.verisign.com
 user-apis.verisign.com
 usertesting.verisign.com
 v-lync.verisign.com
-validation.verisign.com
 validation2.verisign.com
 vdps.verisign.com
 vdpsreports.verisign.com
