@@ -30,8 +30,6 @@ ccprocessing.verisign.com
 cic.verisign.com
 cicsensor.verisign.com
 circle.verisign.com
-citrix.verisign.com
-citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
@@ -56,6 +54,7 @@ dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
 eagle.verisign.com
+egrine.verisign.com
 eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
@@ -89,7 +88,6 @@ gp.verisign.com
 graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
-helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
@@ -110,13 +108,21 @@ ispcenter-enroll.verisign.com
 ispcenter.verisign.com
 ispservices.verisign.com
 jamf.verisign.com
+jamfcitrix.verisign.com
+jamfcitrixsg.verisign.com
 jamfdev.verisign.com
+jamfhelpdesk.verisign.com
+jamfpciscanning.mss.verisign.com
+jamfresearch.verisign.com
+jamfvulnerabilityscanning.mss.verisign.com
+jamfwww.research.verisign.com
 jinf.verisign.com
 join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
+legacy.verisign.com
 login-otp.verisign.com
 login.verisign.com
 logindr.verisign.com
@@ -223,13 +229,14 @@ onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 osprey.verisign.com
+ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
+otp.verisign.com
 overlord.verisign.com
 owas.verisign.com
 pages.messages.verisign.com
-pciscanning.mss.verisign.com
 pds.verisign.com
 peacock.verisign.com
 pelican.verisign.com
@@ -255,7 +262,6 @@ query.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
-research.verisign.com
 rms.verisign.com
 rnr.verisign.com
 ro-otp.verisign.com
@@ -326,7 +332,6 @@ vpn.verisign.com
 vps-psc.verisign.com
 vsc.verisign.com
 vts.verisign.com
-vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
 webcon.verisign.com
 webconf-dr.verisign.com
@@ -340,7 +345,6 @@ welcome.verisign.com
 whois.verisign.com
 workbench.mss.verisign.com
 www.mywebsite.verisign.com
-www.research.verisign.com
 www.roamerview-radius.verisign.com
 www.securemobile.verisign.com
 www.verisign.com
