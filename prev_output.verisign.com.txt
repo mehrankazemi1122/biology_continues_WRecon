@@ -60,7 +60,6 @@ eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
 entsecurity.verisign.com
-eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
 everest.verisign.com
@@ -71,8 +70,16 @@ forms.verisign.com
 fpe.verisign.com
 ftp.mss.verisign.com
 gatekeeper.verisign.com
-gateway.verisign.com
+gateway1.verisiggateway.verisign.com
+gateway1.verisiginfocenter.verisign.com
+gateway1.verisigmailhost1.verisign.com
+gateway1.verisigmailhost2.verisign.com
+gateway1.verisigmailhost3.verisign.com
+gateway1.verisigmssportal.verisign.com
+gateway1.verisigmusketeer.verisign.com
 gateway1.verisign.com
+gateway1.verisigrtma.verisign.com
+gateway1.verisigsmetrics.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
 gladiator.verisign.com
@@ -94,7 +101,6 @@ heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
-infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
@@ -141,12 +147,7 @@ mailer3.verisign.com
 mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
-mailhost.verisign.com
-mailhost1.verisign.com
-mailhost2.verisign.com
-mailhost3.verisign.com
 mailhosteu.verisign.com
-maintenance.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
 marketing.verisign.com
@@ -171,8 +172,6 @@ mms.verisign.com
 mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
-mssportal.verisign.com
-musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
@@ -265,7 +264,6 @@ ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
 rss.verisign.com
-rtma.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
@@ -280,7 +278,6 @@ sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
-smetrics.verisign.com
 smtp.verisign.com
 soaprod.verisign.com
 spark.verisign.com
@@ -301,6 +298,7 @@ survey.verisign.com
 test-admin.contentportal.verisign.com
 test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
+teway2.verisign.com
 thebes.verisign.com
 tld-rdap.verisign.com
 tld-webwhois.verisign.com
@@ -321,6 +319,7 @@ vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
+verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
 vpn-mel.verisign.com
