@@ -227,7 +227,6 @@ osprey.verisign.com
 ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
-ote-login.verisign.com
 overlord.verisign.com
 owas.verisign.com
 pages.messages.verisign.com
@@ -266,6 +265,7 @@ roaminghub.verisign.com
 robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
+s.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
@@ -301,7 +301,6 @@ survey.verisign.com
 test-admin.contentportal.verisign.com
 test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
-thebes.verisign.com
 tld-rdap.verisign.com
 tld-webwhois.verisign.com
 topup.verisign.com
@@ -328,7 +327,6 @@ vpn.verisign.com
 vps-psc.verisign.com
 vsc.verisign.com
 vts.verisign.com
-vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
 webcon.verisign.com
 webconf-dr.verisign.com
