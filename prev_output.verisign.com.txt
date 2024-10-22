@@ -32,6 +32,7 @@ cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
+clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
 contentservices.verisign.com
@@ -85,6 +86,7 @@ gp-sars.verisign.com
 gp-test.verisign.com
 gp-web.verisign.com
 gp.verisign.com
+graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
 helpdesk.verisign.com
@@ -175,7 +177,6 @@ musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
-nap.mss.verisign.com
 netexch.clearing.verisign.com
 nrd.verisign.com
 nrdz.verisign.com
@@ -279,7 +280,6 @@ sip.verisign.com
 sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
-skylark.clearing.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
