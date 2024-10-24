@@ -34,6 +34,7 @@ citrix.verisign.com
 citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
+colibri.verisign.com
 contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
@@ -108,7 +109,6 @@ ispcenter-admin.verisign.com
 ispcenter-enroll.verisign.com
 ispcenter.verisign.com
 ispservices.verisign.com
-ity-services.verisign.com
 jamf.verisign.com
 jamfdev.verisign.com
 jinf.verisign.com
@@ -221,6 +221,7 @@ nswm-service.verisign.com
 ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
+onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 osprey.verisign.com
@@ -247,12 +248,13 @@ pilotpayments.verisign.com
 pmg-acg-billing.verisign.com
 pmg.verisign.com
 pmg2.verisign.com
-pn-brn.verisign.comsearch.verisign.com
 portal.mss.verisign.com
 pts.verisign.com
 publicdnsforum.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
+quasar.verisign.com
+query.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
@@ -269,6 +271,7 @@ safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
 scs-test.verisign.com
+search.verisign.com
 sentinel.verisign.com
 services.mss.verisign.com
 ses.clearing.verisign.com
