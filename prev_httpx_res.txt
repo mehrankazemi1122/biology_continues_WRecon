@@ -34,6 +34,7 @@ https://pds.verisign.com [301,200] [https://pds.verisign.com/pds/] [Apache HTTP 
 https://publicdnsforum.verisign.com [301] [301 Moved Permanently] [Apache HTTP Server,HSTS]
 https://rdap.verisign.com [400]
 https://request.verisign.com [404] [404 Not Found]
+https://ro-otp.verisign.com [301,200] [https://ro-otp.verisign.com/roui/] [Apache HTTP Server,HSTS,Java]
 https://smetrics.verisign.com [200] [HSTS]
 https://startonline.verisign.com [301] [301 Moved Permanently] [Apache HTTP Server,HSTS]
 https://styleguide.verisign.com [301] [301 Moved Permanently] [Apache HTTP Server,HSTS]
