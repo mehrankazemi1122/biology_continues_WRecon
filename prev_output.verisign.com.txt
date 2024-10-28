@@ -100,6 +100,7 @@ infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
+intranet-2.verisign.com
 investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
@@ -133,6 +134,7 @@ mail1.verisign.com
 mail2.verisign.com
 mail3.verisign.com
 mail4.verisign.com
+mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
@@ -199,6 +201,7 @@ ns28.verisign.com
 ns29.verisign.com
 ns3.verisign.com
 ns30.verisign.com
+ns31.verisign.com
 ns32.verisign.com
 ns33.verisign.com
 ns34.verisign.com
@@ -309,8 +312,8 @@ tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
-user-apiintranet-2.verisign.com
 user-apis.verisign.com
+usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
