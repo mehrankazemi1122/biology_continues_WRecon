@@ -7,6 +7,7 @@ https://click.messages.verisign.com [403] [403 - Forbidden: Access is denied.] [
 https://crl.verisign.com [404] [404 - Not Found] [Azure,Azure CDN]
 https://cube.verisign.com [200] [Apache HTTP Server,HSTS]
 https://developer.verisign.com [301,200] [https://developer.verisign.com/devhub/] [Apache HTTP Server,HSTS,Java]
+https://email.gh-mail.verisign.com [404] [google]
 https://globalprotect.verisign.com [302,404] [https://globalprotect.verisign.com/global-protect/login.esp]
 https://gp-fri.verisign.com [302,404] [https://gp-fri.verisign.com/global-protect/login.esp]
 https://gp-mel.verisign.com [302,404] [https://gp-mel.verisign.com/global-protect/login.esp]
