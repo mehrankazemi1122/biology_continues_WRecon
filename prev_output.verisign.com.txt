@@ -1,7 +1,9 @@
 .verisign.com
 access.verisign.com
+accounts-otp.verisign.com
 accounts.verisign.com
 accountsdr.verisign.com
+ailhost1.verisign.brn1mailers.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -17,9 +19,7 @@ blogs.verisign.com
 brandcenter.verisign.com
 brn1lxmailin01.verisign.com
 brn1lxmailin02.verisign.com
-brn1lxmailout01.verisign.com
 brn1lxmailout02.verisign.com
-brn1mailers.verisign.com
 buzzard.verisign.com
 byod-portal.verisign.com
 c42.verisign.com
@@ -32,7 +32,6 @@ cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
-ckers.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
@@ -44,6 +43,7 @@ crl.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
+customercenter.verisign.com
 cxml-xmlpay.verisign.com
 dbm.verisign.com
 dbms.verisign.com
@@ -80,6 +80,7 @@ globalcrossing.mss.verisign.com
 globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
+gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
 gp-test.verisign.com
@@ -100,7 +101,6 @@ internap.mss.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
-ionportal.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
 ips.verisign.com
@@ -115,9 +115,10 @@ join.corparch.verisign.com
 join.verisign.com
 joshua.verisign.com
 labs.verisign.com
+legacy.corparch.verisign.com
 legacy.verisign.com
-ler2.verisign.com
 login-otp.verisign.com
+login.gslb.verisign.com
 login.verisign.com
 logindr.verisign.com
 lwas.verisign.com
@@ -127,7 +128,6 @@ lyncdiscover.corparch.verisign.com
 lyncdiscover.verisign.com
 lyncedge-ext.corparch.verisign.com
 lyncrp.verisign.com
-m.verisign.com
 mail01.marketing.verisign.com
 mail1.verisign.com
 mail2.verisign.com
@@ -151,9 +151,8 @@ maple.verisign.com
 mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
-mdm1.verisign.com
-mdmuat.verisign.com
 mdmz.verisign.com
+meetings-webex.verisign.com
 mem-dr.verisign.com
 mem.verisign.com
 messages.verisign.com
@@ -188,10 +187,10 @@ ns16.verisign.com
 ns17.verisign.com
 ns18.verisign.com
 ns19.verisign.com
-ns2.verisign.com
 ns20.verisign.com
 ns21.verisign.com
 ns22.verisign.com
+ns22.verobin.verisign.com
 ns25.verisign.com
 ns26.verisign.com
 ns27.verisign.com
@@ -254,8 +253,6 @@ qa4-api.verisign.com
 qaweb.verisign.com
 quasar.verisign.com
 query.verisign.com
-r.verisign.com
-rcenter.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
@@ -265,7 +262,7 @@ rnr.verisign.com
 ro-otp.verisign.com
 ro.verisign.com
 roaminghub.verisign.com
-robin.verisign.com
+rss.verisign.com
 rtma.verisign.com
 safari.verisign.com
 salesportal.verisign.com
@@ -277,6 +274,7 @@ services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
+sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
@@ -294,6 +292,7 @@ startonline.verisign.com
 status.verisign.com
 statuschange.verisign.com
 styleguide.verisign.com
+styleguidemdmuat.verisign.com
 sun.mss.verisign.com
 support-otp.verisign.com
 support.verisign.com
@@ -307,6 +306,7 @@ tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
+tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
@@ -321,11 +321,14 @@ vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
 view.messages.verisign.com
+vpn-brn.verisign.com
 vpn-mel.verisign.com
+vpn.verisign.com
 vps-psc.verisign.com
 vsc.verisign.com
 vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
+vulture.verisign.com
 webcon.verisign.com
 webconf-dr.verisign.com
 webconf.verisign.com
@@ -333,16 +336,7 @@ webexteams.verisign.com
 webidentity.verisign.com
 webmail.corparch.verisign.com
 webnum.verisign.com
-webwhois.vaccounts-otp.verisign.com
 webwhois.verisign.com
-webwhois.vgp-fri.verisign.com
-webwhois.vlogin.gslb.verisign.com
-webwhois.vmeetings-webex.verisign.com
-webwhois.vrss.verisign.com
-webwhois.vtuvalu.verisign.com
-webwhois.vvpn-brn.verisign.com
-webwhois.vvpn.verisign.com
-webwhois.vvulture.verisign.com
 welcome.verisign.com
 whois.verisign.com
 workbench.mss.verisign.com
