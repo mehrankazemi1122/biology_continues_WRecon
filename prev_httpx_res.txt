@@ -15,6 +15,7 @@ https://gp-test.verisign.com [302,404] [https://gp-test.verisign.com/global-prot
 https://gp-web.verisign.com [302,200] [GlobalProtect Portal] [https://gp-web.verisign.com/global-protect/login.esp] [Bootstrap,HSTS,jQuery]
 https://gp.verisign.com [302,404] [https://gp.verisign.com/global-protect/login.esp]
 https://login-otp.verisign.com [404] [404 Not Found] [Apache HTTP Server]
+https://login.gslb.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://mem-dr.verisign.com [200] [HSTS]
 https://mem.verisign.com [200] [HSTS]
