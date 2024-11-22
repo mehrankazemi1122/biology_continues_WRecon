@@ -1,4 +1,3 @@
-.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
@@ -13,7 +12,6 @@ autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
-blog.verisign.com
 blogs.verisign.com
 brandcenter.verisign.com
 brn1lxmailin01.verisign.com
@@ -25,7 +23,6 @@ buzzard.verisign.com
 byod-portal.verisign.com
 c42.verisign.com
 caladan.verisign.com
-calaxmpp-dr.verisign.com
 cap.verisign.com
 careers.verisign.com
 ccprocessing.verisign.com
@@ -37,6 +34,7 @@ citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
+contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
@@ -102,7 +100,6 @@ internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
-investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
 ips.verisign.com
@@ -122,7 +119,6 @@ legacy.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
-logindr.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
 lws-ext.verisign.com
@@ -162,7 +158,6 @@ mem.verisign.com
 messages.verisign.com
 mickey.verisign.com
 minasmorgul.verisign.com
-minastirith.verisign.com
 minnie.verisign.com
 ml1.verisign.com
 mmadmin-enroll.verisign.com
@@ -174,6 +169,8 @@ mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
 mssportal.verisign.com
+mssportal.verisign.comlogindr.verisign.com
+mssportal.verisign.comtuvalu.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
@@ -256,6 +253,7 @@ publicdnsforum.verisign.com
 qa4-api.verisign.com
 qaweb.verisign.com
 quasar.verisign.com
+query.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
@@ -309,12 +307,10 @@ tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
-tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
-usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
@@ -352,5 +348,6 @@ www.verisign.com
 www.webbusiness.verisign.com
 www.yourdomain.verisign.com
 xml-reg.verisign.com
+xmpp-dr.verisign.com
 xmpp.verisign.com
 yourdomain.verisign.com
