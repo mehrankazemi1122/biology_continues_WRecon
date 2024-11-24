@@ -41,6 +41,7 @@ corporate.verisign.com
 cp.verisign.com
 crl.verisign.com
 crow.verisign.com
+cube.verisign.com
 customer-center.verisign.com
 customercenter.verisign.com
 cxml-xmlpay.verisign.com
@@ -55,7 +56,6 @@ dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
 eagle.verisign.com
-eer.verisign.com
 eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
@@ -63,7 +63,6 @@ entsecurity.verisign.com
 eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
-eteer.verisign.com
 everest.verisign.com
 everest1.verisign.com
 everest2.verisign.com
@@ -90,6 +89,7 @@ gp.verisign.com
 graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
+helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
@@ -119,6 +119,7 @@ labs.verisign.com
 legacy.corparch.verisign.com
 legacy.verisign.com
 login-otp.verisign.com
+login.gslb.verisign.com
 login.verisign.com
 logindr.verisign.com
 lwas.verisign.com
@@ -128,7 +129,6 @@ lyncdiscover.corparch.verisign.com
 lyncdiscover.verisign.com
 lyncedge-ext.corparch.verisign.com
 lyncrp.verisign.com
-maicube.verisign.com
 mail01.marketing.verisign.com
 mail1.verisign.com
 mail2.verisign.com
@@ -147,10 +147,7 @@ mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
-mailogin.gslb.verisign.com
 maintenance.verisign.com
-maitld-webwhois.verisign.com
-maiwebwhois.verisign.com
 maple.verisign.com
 mapleleaf.verisign.com
 marketing.verisign.com
@@ -270,9 +267,7 @@ ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
 rss.verisign.com
-rtal.verisign.com
 rtma.verisign.com
-s.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
@@ -310,6 +305,7 @@ test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
 thebes.verisign.com
 tld-rdap.verisign.com
+tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
@@ -343,6 +339,8 @@ webexteams.verisign.com
 webidentity.verisign.com
 webmail.corparch.verisign.com
 webnum.verisign.com
+webwhois.verisign.com
+welcome.verisign.com
 whois.verisign.com
 workbench.mss.verisign.com
 www.gslb.verisign.com
