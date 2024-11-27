@@ -36,6 +36,7 @@ clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
 contentservices.verisign.com
+contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
 crl.verisign.com
@@ -51,6 +52,7 @@ developer.verisign.com
 dm.verisign.com
 dnssecforum.verisign.com
 dodeca.verisign.com
+dullmxout01.corparch.verisign.com
 dw.ses.clearing.verisign.com
 e-lync-dir.verisign.com
 eagle.verisign.com
@@ -164,6 +166,7 @@ minnie.verisign.com
 ml1.verisign.com
 mmadmin-enroll.verisign.com
 mmadmin-manager.verisign.com
+mmadmin.verisign.com
 mms-demo.verisign.com
 mms.verisign.com
 mmsmonitor-demo.verisign.com
@@ -275,6 +278,7 @@ services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
+sipaccess-dr.verisign.com
 sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
@@ -296,7 +300,6 @@ sun.mss.verisign.com
 support-otp.verisign.com
 support.verisign.com
 survey.verisign.com
-ternap.mss.verisign.mmadmin.verisign.com
 test-admin.contentportal.verisign.com
 test-wap1.contentportal.verisign.com
 test-web1.contentportal.verisign.com
@@ -311,7 +314,7 @@ ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
-usllmxoutng.verisign.com
+usertesting.verisign.com
 v-lync.verisign.com
 validation.verisign.com
 validation2.verisign.com
