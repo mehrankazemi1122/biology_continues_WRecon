@@ -60,6 +60,7 @@ eim.verisign.com
 elearning.verisign.com
 email.gh-mail.verisign.com
 entsecurity.verisign.com
+eol-redirect.verisign.com
 epcdev.verisign.com
 er.verisign.com
 everest.verisign.com
@@ -152,6 +153,7 @@ mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
 mdm1.verisign.com
+mdmuat.verisign.com
 mdmz.verisign.com
 meetings-webex.verisign.com
 mem-dr.verisign.com
@@ -219,12 +221,14 @@ nswm-service.verisign.com
 ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
+onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 origin.blog.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
 ote-cube.verisign.com
+ote-login-otp.verisign.com
 ote-login.verisign.com
 overlord.verisign.com
 owas.verisign.com
