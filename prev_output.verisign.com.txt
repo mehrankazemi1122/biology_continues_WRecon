@@ -25,6 +25,7 @@ byod-portal.verisign.com
 c42.verisign.com
 caladan.verisign.com
 cap.verisign.com
+careers.verisign.com
 ccprocessing.verisign.com
 cic.verisign.com
 cicsensor.verisign.com
@@ -221,7 +222,6 @@ ocsp.verisign.com
 ocwa.verisign.com
 onetrust.verisign.com
 onlinecontracts-security-services.verisign.com
-onlinecontracts-security-services.verisign.counav-otp.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 origin.blog.verisign.com
@@ -310,6 +310,8 @@ topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
 tuvalu.verisign.com
+ued.verisign.com
+unav-otp.verisign.com
 unav.verisign.com
 user-apis.verisign.com
 usertesting.verisign.com
@@ -321,7 +323,6 @@ vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
-verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
 vpn-mel.verisign.com
