@@ -34,6 +34,7 @@ citrix.verisign.com
 citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
+colibri.verisign.com
 contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
@@ -93,14 +94,9 @@ heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
-ijoshua.verisign.com
-imaple.verisign.com
-imms-demo.verisign.com
-immsmonitor-demo.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
-ins12.verisign.com
 internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
@@ -118,6 +114,7 @@ jamfdev.verisign.com
 jinf.verisign.com
 join.corparch.verisign.com
 join.verisign.com
+joshua.verisign.com
 labs.verisign.com
 legacy.corparch.verisign.com
 legacy.verisign.com
@@ -151,6 +148,7 @@ mailhost2.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
+maple.verisign.com
 mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
@@ -169,7 +167,9 @@ ml1.verisign.com
 mmadmin-enroll.verisign.com
 mmadmin-manager.verisign.com
 mmadmin.verisign.com
+mms-demo.verisign.com
 mms.verisign.com
+mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
 mssportal.verisign.com
@@ -182,6 +182,7 @@ nrd.verisign.com
 nrdz.verisign.com
 ns1.verisign.com
 ns10.verisign.com
+ns12.verisign.com
 ns13.verisign.com
 ns14.verisign.com
 ns15.verisign.com
