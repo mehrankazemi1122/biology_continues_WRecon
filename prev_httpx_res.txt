@@ -1,4 +1,3 @@
-http://onsitecrl.verisign.com [502] [Apache HTTP Server]
 https://accounts-otp.verisign.com [307,200] [https://accounts-otp.verisign.com/vac/] [Apache HTTP Server,HSTS,Java]
 https://blog.verisign.com [200] [Verisign Blog A global provider of critical internet infrastructure and domain name registry services] [cloudfront] [Amazon CloudFront,Amazon Web Services,Apache HTTP Server,HSTS,MySQL,PHP,WordPress,jQuery]
 https://blogs.verisign.com [301] [cloudfront] [Amazon CloudFront,Amazon Web Services,HSTS]
@@ -16,7 +15,6 @@ https://gp-web.verisign.com [302,200] [GlobalProtect Portal] [https://gp-web.ver
 https://gp.verisign.com [302,404] [https://gp.verisign.com/global-protect/login.esp]
 https://login-otp.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://login.gslb.verisign.com [404] [404 Not Found] [Apache HTTP Server]
-https://login.verisign.com [404] [404 Not Found] [Apache HTTP Server]
 https://mem-dr.verisign.com [200] [HSTS]
 https://mem.verisign.com [200] [HSTS]
 https://nsw-api.verisign.com [403] [403 Forbidden] [Apache HTTP Server,HSTS]
