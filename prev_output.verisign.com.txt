@@ -10,7 +10,6 @@ artemis.verisign.com
 att.mss.verisign.com
 autodiscover.corparch.verisign.com
 av.verisign.com
-avedge-dr.verisign.com
 avedge.verisign.com
 blog.verisign.com
 blogs.verisign.com
