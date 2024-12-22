@@ -1,7 +1,6 @@
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
-accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -80,7 +79,6 @@ globalcrossing.mss.verisign.com
 globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
-gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
 gp-test.verisign.com
@@ -88,7 +86,6 @@ gp-web.verisign.com
 gp.verisign.com
 graphicslibrary.verisign.com
 gwiz.verisign.com
-hal9000.verisign.com
 helpdesk.verisign.com
 heron.verisign.com
 host-110.verisign.com
@@ -101,7 +98,6 @@ internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
-investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
 ips.verisign.com
@@ -121,7 +117,6 @@ legacy.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
-logindr.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
 lws-ext.verisign.com
@@ -174,10 +169,15 @@ mobile.corparch.verisign.com
 mra.verisign.com
 mssportal.verisign.com
 musketeer.verisign.com
+musketeer.vgp-fri.verisign.com
+musketeer.vlogindr.verisign.com
+musketeer.vrss.verisign.com
+musketeer.vtuvalu.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
 mywebsite.verisign.com
 netexch.clearing.verisign.com
+ng.mss.verisign.com
 nrd.verisign.com
 nrdz.verisign.com
 ns1.verisign.com
@@ -266,7 +266,6 @@ ro-otp.verisign.com
 ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
-rss.verisign.com
 rtma.verisign.com
 safari.verisign.com
 salesportal.verisign.com
@@ -309,7 +308,6 @@ tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
-tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
