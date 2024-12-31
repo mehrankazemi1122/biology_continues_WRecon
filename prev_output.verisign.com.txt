@@ -203,6 +203,7 @@ ns3.verisign.com
 ns30.verisign.com
 ns31.verisign.com
 ns32.verisign.com
+ns33.verisign.com
 ns34.verisign.com
 ns35.verisign.com
 ns36.verisign.com
@@ -237,7 +238,6 @@ pds.verisign.com
 peacock.verisign.com
 pelican.verisign.com
 peregrine.verisign.com
-peregrine.verisign.cons33.verisign.com
 pi.verisign.com
 pic.verisign.com
 pigeon.verisign.com
@@ -279,6 +279,7 @@ ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
 sipaccess-dr.verisign.com
+sipaccess.verisign.com
 sipexternal.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
