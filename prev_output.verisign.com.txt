@@ -42,7 +42,6 @@ cp.verisign.com
 crl.verisign.com
 crow.verisign.com
 cube.verisign.com
-customer-center.verisign.com
 customercenter.verisign.com
 cxml-xmlpay.verisign.com
 dbm.verisign.com
@@ -226,7 +225,6 @@ onsitecrl.verisign.com
 orientation.verisign.com
 origin.blog.verisign.com
 osprey.verisign.com
-ote-accounts-otp.verisign.com
 ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
