@@ -13,7 +13,7 @@ website_address="$1"
 send_discord_notification() {
     echo "sending function start !"
     local content="$1"
-    local webhook_url="https://discord.com/api/webhooks/1257309085351542786/ijyiMHCcmhafcTqgumjZkLFLJAOuPvvgTqNdas3Rg3v1uHr8Qf07TNLq_Oo1JYajBlM8"
+    local webhook_url= ${{ secrets.DISCORD_TOKEN }}
 
     # Add a delay of 1 second before sending each notification
     sleep 1
