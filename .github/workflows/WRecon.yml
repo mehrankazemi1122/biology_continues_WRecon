@@ -53,7 +53,7 @@ jobs:
  
     - name: executing DNS Brute
       env:
-          DISCORD_TOKEN: ${{ secrets.DISCORD }}
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
       run: |
         cd ../
         pwd
