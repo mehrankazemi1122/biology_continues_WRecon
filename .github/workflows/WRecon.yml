@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    # Runs at 3:00 AM UTC every day
+    # Runs at 3:00 AM UTC every day 
     - cron: '0 */5 * * *'
 
 
