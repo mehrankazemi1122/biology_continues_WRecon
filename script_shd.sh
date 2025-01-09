@@ -3,7 +3,7 @@
 # Function to send notification to Discord with a delay
 send_discord_notification() {
     local content="$1"
-    local webhook_url=${{ secrets.DISCORD }}
+    local webhook_url="${{secrets.DISCORD}}"
     
     # Add a delay of 5 seconds before sending each notification
     sleep 1
