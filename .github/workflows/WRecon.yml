@@ -52,6 +52,8 @@ jobs:
         sudo apt-get install moreutils
  
     - name: executing DNS Brute
+      env:
+          DISCORD: ${{ secrets.DISCORD }}
       run: |
         cd ../
         pwd
