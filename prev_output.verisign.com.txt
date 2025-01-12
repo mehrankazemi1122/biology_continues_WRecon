@@ -47,7 +47,6 @@ customercenter.verisign.com
 cxml-xmlpay.verisign.com
 dbm.verisign.com
 dbms.verisign.com
-de.verisign.com
 desktopsupport.verisign.com
 developer.verisign.com
 dm.verisign.com
@@ -101,8 +100,6 @@ infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
 intranet-1.verisign.com
-intranet-1.verisns38.verisign.com
-intranet-1.verisns40.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
 ios.verisign.com
@@ -136,6 +133,7 @@ mail01.marketing.verisign.com
 mail1.verisign.com
 mail2.verisign.com
 mail3.verisign.com
+mail4.verisign.com
 mail5.verisign.com
 mail6.verisign.com
 mailer1.verisign.com
@@ -166,7 +164,6 @@ minasmorgul.verisign.com
 minastirith.verisign.com
 minnie.verisign.com
 ml1.verisign.com
-mmadmin-enroll.verisign.com
 mmadmin-manager.verisign.com
 mmadmin.verisign.com
 mms-demo.verisign.com
@@ -210,8 +207,10 @@ ns34.verisign.com
 ns35.verisign.com
 ns36.verisign.com
 ns37.verisign.com
+ns38.verisign.com
 ns39.verisign.com
 ns4.verisign.com
+ns40.verisign.com
 ns7.verisign.com
 ns8.verisign.com
 nsw-api.verisign.com
@@ -225,14 +224,13 @@ onlinecontracts-security-services.verisign.com
 onsitecrl.verisign.com
 orientation.verisign.com
 origin.blog.verisign.com
+orparch.verisign.com
 osprey.verisign.com
 ote-accounts-otp.verisign.com
-ote-cube.verisign.com
 ote-login-otp.verisign.com
 ote-login.verisign.com
 overlord.verisign.com
 owas.verisign.com
-p.verisimail4.verisign.com
 pages.messages.verisign.com
 pciscanning.mss.verisign.com
 pds.verisign.com
@@ -274,7 +272,6 @@ salesportal.verisign.com
 savannah.verisign.com
 scs-test.verisign.com
 search.verisign.com
-sentinel.verisign.com
 services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
@@ -285,9 +282,9 @@ sipexternal.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
+smtp.vesentinel.verisign.com
 soaprod.verisign.com
 spark.verisign.com
-square.verisign.com
 sslftp.verisign.com
 sso.verisign.com
 sss-uat.verisign.com
@@ -296,6 +293,7 @@ stargate.verisign.com
 startonline.verisign.com
 status.verisign.com
 statuschange.verisign.com
+styleguide.verisign.com
 sun.mss.verisign.com
 support-otp.verisign.com
 support.verisign.com
