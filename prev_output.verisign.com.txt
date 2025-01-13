@@ -1,6 +1,7 @@
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
+accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -74,6 +75,7 @@ gateway.verisign.com
 gateway1.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
+gladiator.verisign.com
 globalcrossing.mss.verisign.com
 globalprotect.verisign.com
 goodmail.verisign.com
@@ -261,13 +263,13 @@ research.verisign.com
 rms.verisign.com
 rnr.verisign.com
 ro-otp.verisign.com
+ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
 safari.verisign.com
 salesportal.verisign.com
-savaccountsdr.verisign.com
 savannah.verisign.com
 scs-test.verisign.com
 search.verisign.com
