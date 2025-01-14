@@ -7,6 +7,7 @@ alertus.verisign.com
 andaman.verisign.com
 apollo.verisign.com
 artemis.verisign.com
+att.mss.verisign.com
 autodiscover.corparch.verisign.com
 av.verisign.com
 avedge-dr.verisign.com
@@ -27,6 +28,7 @@ cap.verisign.com
 careers.verisign.com
 ccprocessing.verisign.com
 cic.verisign.com
+cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
 citrixsg.verisign.com
@@ -37,6 +39,7 @@ contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
+crl.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
@@ -83,6 +86,7 @@ gp-sars.verisign.com
 gp-test.verisign.com
 gp-web.verisign.com
 gp.verisign.com
+graphicslibrary.verisign.com
 gwiz.verisign.com
 hal9000.verisign.com
 helpdesk.verisign.com
@@ -94,7 +98,9 @@ infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
+international.verisign.com
 intranet-1.verisign.com
+intranet-2.verisign.com
 investor.verisign.com
 ios.verisign.com
 ipconnect.verisign.com
@@ -129,6 +135,7 @@ mail2.verisign.com
 mail3.verisign.com
 mail4.verisign.com
 mail5.verisign.com
+mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
 mailer3.verisign.com
@@ -136,6 +143,9 @@ mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
+mailhost1.verisign.com
+mailhost2.verisign.com
+mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
@@ -163,9 +173,6 @@ mmsmonitor-demo.verisign.com
 mobile.corparch.verisign.com
 mra.verisign.com
 mssportal.verisign.com
-mssportal.verisign.mailhost1.verisign.com
-mssportal.verisign.mailhost2.verisign.com
-mssportal.verisign.mailhost3.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
 mydevice.verisign.com
@@ -184,8 +191,11 @@ ns17.verisign.com
 ns18.verisign.com
 ns19.verisign.com
 ns2.verisign.com
+ns20.verisign.com
 ns21.verisign.com
 ns22.verisign.com
+ns25.verisign.com
+ns26.verisign.com
 ns27.verisign.com
 ns28.verisign.com
 ns29.verisign.com
@@ -222,6 +232,7 @@ ote-login-otp.verisign.com
 ote-login.verisign.com
 overlord.verisign.com
 owas.verisign.com
+pages.messages.verisign.com
 pciscanning.mss.verisign.com
 pds.verisign.com
 peacock.verisign.com
@@ -233,6 +244,7 @@ pigeon.verisign.com
 pilot-buyerauth-post.verisign.com
 pilot-buyerauth.verisign.com
 pilot-cxml-xmlpay.verisign.com
+pilot-rms.verisign.com
 pilotpayments.verisign.com
 pmg-acg-billing.verisign.com
 pmg.verisign.com
@@ -256,7 +268,6 @@ roaminghub.verisign.com
 robin.verisign.com
 rss.verisign.com
 rtma.verisign.com
-s.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
