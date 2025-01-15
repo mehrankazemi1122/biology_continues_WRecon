@@ -10,6 +10,7 @@ artemis.verisign.com
 att.mss.verisign.com
 autodiscover.corparch.verisign.com
 av.verisign.com
+avannah.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
 blog.verisign.com
@@ -39,7 +40,6 @@ contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
-crl.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
@@ -94,6 +94,7 @@ heron.verisign.com
 host-110.verisign.com
 icentral.verisign.com
 icms.verisign.com
+infocenter.crl.verisign.com
 infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
@@ -139,12 +140,10 @@ mail6.verisign.com
 mailer1.verisign.com
 mailer2.verisign.com
 mailer3.verisign.com
-mailer4.verisign.com
 mailer5.verisign.com
 mailer6.verisign.com
 mailhost.verisign.com
 mailhost1.verisign.com
-mailhost2.verisign.com
 mailhost3.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
@@ -280,7 +279,7 @@ sip.corparch.verisign.com
 sip.verisign.com
 sipaccess-dr.verisign.com
 sipaccess.verisign.com
-sipexternal.verisign.com
+sipeon.verisign.com
 skylark.verisign.com
 smetrics.verisign.com
 smtp.verisign.com
@@ -332,7 +331,6 @@ vsc.verisign.com
 vts.verisign.com
 vulnerabilityscanning.mss.verisign.com
 vulture.verisign.com
-webcon.verisign.com
 webconf-dr.verisign.com
 webconf.verisign.com
 webexteams.verisign.com
