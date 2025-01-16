@@ -4,6 +4,7 @@ https://blog.verisign.com [200] [Verisign Blog A global provider of critical int
 https://blogs.verisign.com [301] [cloudfront] [Amazon CloudFront,Amazon Web Services,HSTS]
 https://brn1mailers.verisign.com [200] [Apache HTTP Server,HSTS]
 https://click.messages.verisign.com [403] [403 - Forbidden: Access is denied.] [HSTS]
+https://crl.verisign.com [403] [Access Denied]
 https://cube.verisign.com [200] [Apache HTTP Server,HSTS]
 https://developer.verisign.com [301,200] [https://developer.verisign.com/devhub/] [Apache HTTP Server,HSTS,Java]
 https://email.gh-mail.verisign.com [404] [google]

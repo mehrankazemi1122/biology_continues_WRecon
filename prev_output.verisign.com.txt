@@ -1,11 +1,10 @@
-5.verisign.com
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
+accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
-aphicslibrary.verisign.com
 apollo.verisign.com
 artemis.verisign.com
 att.mss.verisign.com
@@ -32,6 +31,7 @@ cic.verisign.com
 cicsensor.verisign.com
 circle.verisign.com
 citrix.verisign.com
+citrixsg.verisign.com
 clearing.verisign.com
 click.messages.verisign.com
 colibri.verisign.com
@@ -39,6 +39,7 @@ contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
+crl.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
@@ -120,6 +121,7 @@ legacy.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
+logindr.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
 lws-ext.verisign.com
@@ -231,11 +233,7 @@ ote-login.verisign.com
 overlord.verisign.com
 owas.verisign.com
 pages.messages.verisign.com
-pcisaccountsdr.verisign.com
 pciscanning.mss.verisign.com
-pciscrl.verisign.com
-pcislogindr.verisign.com
-pcistuvalu.verisign.com
 pds.verisign.com
 peacock.verisign.com
 pelican.verisign.com
@@ -290,6 +288,7 @@ soaprod.verisign.com
 spark.verisign.com
 square.verisign.com
 sslftp.verisign.com
+sso.verisign.com
 sss-uat.verisign.com
 sss.verisign.com
 stargate.verisign.com
@@ -310,6 +309,7 @@ tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
+tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
