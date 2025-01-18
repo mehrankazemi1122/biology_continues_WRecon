@@ -22,7 +22,7 @@ send_discord_notification() {
     local json_payload=$(jq -n --arg content "$content" '{"content":$content}')
 
     # Send the notification
-    curl -H "Content-Type: application/json" -X POST -d "$json_payload" "$webhook_url"
+    curl -H "Content-Type: application/json" -X POST -d "$json_payload" $webhook_url
     echo "sending function ends"
 }
 
