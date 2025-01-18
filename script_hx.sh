@@ -13,7 +13,7 @@ website_address="$1"
 send_discord_notification() {
     echo "sending function start !"
     local content="$1"
-    local webhook_url="DISCORD_TOKEN"
+    local webhook_url="$DISCORD_TOKEN"
 
     # Add a delay of 1 second before sending each notification
     sleep 1
