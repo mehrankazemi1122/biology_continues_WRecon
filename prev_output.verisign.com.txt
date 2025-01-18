@@ -98,7 +98,6 @@ infocenter.verisign.com
 informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
-internap.mss.vns4.verisign.com
 international.verisign.com
 intranet-1.verisign.com
 intranet-2.verisign.com
@@ -154,6 +153,7 @@ mapleleaf.verisign.com
 marketing.verisign.com
 mdm.corparch.verisign.com
 mdm1.verisign.com
+mdmuat.verisign.com
 mdmz.verisign.com
 meetings-webex.verisign.com
 mem-dr.verisign.com
@@ -210,6 +210,7 @@ ns36.verisign.com
 ns37.verisign.com
 ns38.verisign.com
 ns39.verisign.com
+ns4.verisign.com
 ns40.verisign.com
 ns7.verisign.com
 ns8.verisign.com
@@ -273,6 +274,7 @@ savannah.verisign.com
 scs-test.verisign.com
 search.verisign.com
 sentinel.verisign.com
+services.mss.verisign.com
 ses.clearing.verisign.com
 sip.corparch.verisign.com
 sip.verisign.com
@@ -339,7 +341,7 @@ webmail.corparch.verisign.com
 webnum.verisign.com
 webwhois.verisign.com
 welcome.verisign.com
-whois.verisign.com
+workbench.mss.verisign.com
 www.gslb.verisign.com
 www.mywebsite.verisign.com
 www.research.verisign.com
