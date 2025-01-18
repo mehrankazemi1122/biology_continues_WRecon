@@ -1,7 +1,5 @@
 access.verisign.com
-accounts-otp.verisign.com
 accounts.verisign.com
-accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -9,7 +7,6 @@ apollo.verisign.com
 artemis.verisign.com
 att.mss.verisign.com
 autodiscover.corparch.verisign.com
-av.verisign.com
 avedge-dr.verisign.com
 avedge.verisign.com
 blog.verisign.com
@@ -39,11 +36,11 @@ contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
-crl.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
 customercenter.verisign.com
+cxml-xmlav.verisign.com
 cxml-xmlpay.verisign.com
 dbm.verisign.com
 dbms.verisign.com
@@ -75,12 +72,12 @@ gateway.verisign.com
 gateway1.verisign.com
 gateway2.verisign.com
 gateway3.verisign.com
+ges.messages.verisign.com
 gladiator.verisign.com
 globalcrossing.mss.verisign.com
 globalprotect.verisign.com
 goodmail.verisign.com
 goofy.verisign.com
-gp-fri.verisign.com
 gp-mel.verisign.com
 gp-sars.verisign.com
 gp-test.verisign.com
@@ -99,7 +96,6 @@ informationportal.verisign.com
 infosecgrc.verisign.com
 internap.mss.verisign.com
 international.verisign.com
-intranet-1.verisign.com
 intranet-2.verisign.com
 investor.verisign.com
 ios.verisign.com
@@ -121,7 +117,6 @@ legacy.verisign.com
 login-otp.verisign.com
 login.gslb.verisign.com
 login.verisign.com
-logindr.verisign.com
 lwas.verisign.com
 lws-ext.corparch.verisign.com
 lws-ext.verisign.com
@@ -175,7 +170,6 @@ mra.verisign.com
 mssportal.verisign.com
 musketeer.verisign.com
 mybetter.verisign.com
-mydevice.verisign.com
 mywebsite.verisign.com
 netexch.clearing.verisign.com
 nrd.verisign.com
@@ -256,18 +250,23 @@ qa4-api.verisign.com
 qaweb.verisign.com
 quasar.verisign.com
 query.verisign.com
+raccountsdr.verisign.com
+rcrl.verisign.com
 rdap.verisign.com
 rds.verisign.com
 request.verisign.com
 research.verisign.com
+rgp-fri.verisign.com
+rlogindr.verisign.com
 rms.verisign.com
 rnr.verisign.com
 ro-otp.verisign.com
 ro.verisign.com
 roaminghub.verisign.com
 robin.verisign.com
-rss.verisign.com
+rrss.verisign.com
 rtma.verisign.com
+rtuvalu.verisign.com
 safari.verisign.com
 salesportal.verisign.com
 savannah.verisign.com
@@ -309,7 +308,6 @@ tld-webwhois.verisign.com
 topup.verisign.com
 trackers.verisign.com
 translations.verisign.com
-tuvalu.verisign.com
 ued.verisign.com
 unav-otp.verisign.com
 unav.verisign.com
@@ -323,6 +321,7 @@ vdpsreports.verisign.com
 vendorportal.verisign.com
 vendorsupport.verisign.com
 verified-domains.verisign.com
+verisign.com
 view.messages.verisign.com
 vpn-brn.verisign.com
 vpn-mel.verisign.com
