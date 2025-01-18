@@ -9,7 +9,7 @@ send_discord_notification() {
     sleep 1
     
     # Send the notification
-    curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"$content\"}" "$webhook_url"
+    curl -H "Content-Type: application/json" -X POST -d "{\"content\":\"$content\"}" $webhook_url
 }
 
 # Check if arguments are provided
