@@ -57,7 +57,7 @@ jobs:
       run: |
         cd ../
         pwd
-        cd biology_continues_WRecon 
+        cd biology_c0nt1nu3s_WR3c0n_v3ris1gn 
         sudo apt-get install -y crunch
         crunch 1 4 abcdefghijklmnopqrstuvwxyz1234567890 > 4_chars.txt
         wget https://github.com/zzzteph/substats/raw/main/wordlists/all
