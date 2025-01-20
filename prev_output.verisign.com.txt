@@ -1,7 +1,6 @@
 access.verisign.com
 accounts-otp.verisign.com
 accounts.verisign.com
-accountsdr.verisign.com
 alerts.verisign.com
 alertus.verisign.com
 andaman.verisign.com
@@ -39,7 +38,6 @@ contentservices.verisign.com
 contentservices2.verisign.com
 corporate.verisign.com
 cp.verisign.com
-crl.verisign.com
 crow.verisign.com
 cube.verisign.com
 customer-center.verisign.com
@@ -146,6 +144,8 @@ mailhost.verisign.com
 mailhost1.verisign.com
 mailhost2.verisign.com
 mailhost3.verisign.com
+mailhosteu.verisiaccountsdr.verisign.com
+mailhosteu.verisicrl.verisign.com
 mailhosteu.verisign.com
 maintenance.verisign.com
 maple.verisign.com
@@ -200,7 +200,6 @@ ns27.verisign.com
 ns28.verisign.com
 ns29.verisign.com
 ns3.verisign.com
-ns30.verisign.com
 ns31.verisign.com
 ns32.verisign.com
 ns33.verisign.com
